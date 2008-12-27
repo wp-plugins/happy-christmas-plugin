@@ -1,4 +1,4 @@
-=== Happy Christmas Plugin ===
+=== Plugin Name ===
 Contributors: Melih Guney
 Donate link: http://www.melihguney.com/2008/12/26/wordpress-yeni-yil-eklentisi-v20/
 Tags: flash, christmas, new, year, happy, song, js
